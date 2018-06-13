@@ -3,7 +3,7 @@ package com.carry.test.main;
 /**
  *
  * @author Carry.Liu
- * @createDate 2018Äê6ÔÂ13ÈÕ
+ * @createDate 2018Ã„Ãª6Ã”Ã‚13ÃˆÃ•
  */
 public class TestMain {
 
@@ -11,11 +11,11 @@ public class TestMain {
 		
 		/*====================================*/
 		
-		System.out.println("Hello world£¡");
+		System.out.println("Hello worldÂ£Â¡");
 		
 		/*====================================*/
 		
-		// commit
+		// commit 123
 		
 	}
 	
