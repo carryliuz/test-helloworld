@@ -3,7 +3,7 @@ package com.carry.test.main;
 /**
  *
  * @author Carry.Liu
- * @createDate 2018Ã„Ãª6Ã”Ã‚13ÃˆÃ•
+ * @createDate 2018Äê6ÔÂ13ÈÕ
  */
 public class TestMain {
 
@@ -11,7 +11,7 @@ public class TestMain {
 		
 		/*====================================*/
 		
-		System.out.println("Hello worldÂ£Â¡");
+		System.out.println("Hello world£¡");
 		
 		/*====================================*/
 		
